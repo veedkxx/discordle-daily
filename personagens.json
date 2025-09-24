@@ -92,9 +92,9 @@
     },
     {
       "name": "Ricardo",
-      "aliases": [],
+      "aliases": ["Ricardovzk"],
       "gender": "Masculino",
-      "idade": "23",
+      "idade": "24",
       "estado": "Rio Grande do Sul",
       "banido": "Sim",
       "origem": "Brasil",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Edvan",
-      "aliases": [],
+      "aliases": ["EdvanJr"],
       "gender": "Masculino",
       "idade": "24",
       "estado": "Espírito Santo",
