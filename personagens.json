@@ -37,7 +37,7 @@
       "idade": "20",
       "estado": "São Paulo",
       "banido": "Não",
-      "origem": "OCT",
+      "origem": "OCT, TVS",
       "image": "dole.png"
     },
     {
@@ -222,3 +222,4 @@
     }
   ]
 }
+
