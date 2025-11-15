@@ -86,6 +86,7 @@ function showAlreadyPlayedMessage() {
     // Botão para revelar personagem
     const revealBtn = document.createElement('button');
     revealBtn.textContent = 'Revelar Personagem do Dia';
+    revealBtn.className = 'reveal-btn';
     revealBtn.addEventListener('click', () => {
         alert(`O personagem de hoje era: ${targetPerson.name}`);
     });
