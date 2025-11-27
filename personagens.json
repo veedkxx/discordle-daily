@@ -114,7 +114,7 @@
       "name": "Yan",
       "aliases": ["kaina", "ia"],
       "gender": "Masculino",
-      "idade": "24",
+      "idade": "23",
       "estado": "São Paulo",
       "banido": "Não",
       "origem": "Brasil",
@@ -222,4 +222,5 @@
     }
   ]
 }
+
 
