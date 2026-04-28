@@ -22,7 +22,7 @@
     },
     {
       "name": "Turini",
-      "aliases": ["Felipe"],
+      "aliases": ["Felipe", "turin", "jeske"],
       "gender": "Masculino",
       "idade": "21",
       "estado": "São Paulo",
@@ -32,12 +32,12 @@
     },
     {
       "name": "Dole",
-      "aliases": ["Doge"],
+      "aliases": ["Doge", "catichu", "pepenguer", "macaco desgraçado", "ØÅ"],
       "gender": "Masculino",
-      "idade": "20",
+      "idade": "21",
       "estado": "São Paulo",
       "banido": "Não",
-      "origem": "OCT, TVS",
+      "origem": "OCT", "TVS",
       "image": "dole.png"
     },
     {
@@ -54,7 +54,7 @@
       "name": "Silver",
       "aliases": ["Siso"],
       "gender": "Masculino",
-      "idade": "24",
+      "idade": "25",
       "estado": "São Paulo",
       "banido": "Sim",
       "origem": "Brasil",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Tortuguito",
-      "aliases": ["Tortuga"],
+      "aliases": ["Tortuga", "MDH", "my digital husk"],
       "gender": "Masculino",
       "idade": "24",
       "estado": "São Paulo",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Cerjo",
-      "aliases": [],
+      "aliases": ["Sergio", "tkd", "hi guys"],
       "gender": "Masculino",
       "idade": "21",
       "estado": "Rio de Janeiro",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ricardo",
-      "aliases": ["Ricardovzk"],
+      "aliases": ["Ricardovzk", "pepsi"],
       "gender": "Masculino",
       "idade": "24",
       "estado": "Rio Grande do Sul",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Edvan",
-      "aliases": ["EdvanJr"],
+      "aliases": ["EdvanJr", "EdvanFi"],
       "gender": "Masculino",
       "idade": "24",
       "estado": "Espírito Santo",
@@ -134,7 +134,7 @@
       "name": "Daniel",
       "aliases": ["EtheriousZX", "sZX"],
       "gender": "Masculino",
-      "idade": "24",
+      "idade": "25",
       "estado": "Minas Gerais",
       "banido": "Sim",
       "origem": "Aerópago",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Chihiro",
-      "aliases": ["Chi"],
+      "aliases": ["Chi", "xvideos"],
       "gender": "Feminino",
       "idade": "24",
       "estado": "São Paulo",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Savin",
-      "aliases": ["Aizen"],
+      "aliases": ["Aizen", "Saveo"],
       "gender": "Masculino",
       "idade": "21",
       "estado": "Rio de Janeiro",
@@ -172,9 +172,9 @@
     },
     {
       "name": "Zyero",
-      "aliases": ["gostosa", "cinzeiro"],
+      "aliases": ["gostosa", "cinzeiro", "bombeiro", "carpinteiro", "jardineiro"],
       "gender": "Masculino",
-      "idade": "23",
+      "idade": "24",
       "estado": "Paraná",
       "banido": "Não",
       "origem": "Brasil",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Veed",
-      "aliases": ["Vid", "vidi", "Davi"],
+      "aliases": ["Vid", "vidi", "Davi", "CaganeiraAzul", "veudex", "david", "daveed", "java", "javakxx"],
       "gender": "Masculino",
       "idade": "21",
       "estado": "Amapá",
@@ -192,9 +192,9 @@
     },
     {
       "name": "Natyel",
-      "aliases": ["Careca", "Xibiu", "LivingFailure"],
+      "aliases": ["Careca", "Xibiu", "LivingFailure", "LivingFailureN", "CNatyel"],
       "gender": "Masculino",
-      "idade": "24",
+      "idade": "25",
       "estado": "Ceará",
       "banido": "Não",
       "origem": "TVS",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Leo",
-      "aliases": ["Leozin", "Adashin", "Adashiz", "Adashi"],
+      "aliases": ["Leozin", "Adashin", "Adashiz", "Adashi", "leozada"],
       "gender": "Masculino",
       "idade": "28",
       "estado": "São Paulo",
@@ -212,7 +212,7 @@
     },
     {
       "name": "Lebron",
-      "aliases": ["Japinha do Ipatinga", "MVP do lol", "Pedro James"],
+      "aliases": ["Japinha do Ipatinga", "MVP do lol", "Pedro James", "Maquinista do trem bala"],
       "gender": "Masculino",
       "idade": "21",
       "estado": "Minas Gerais",
